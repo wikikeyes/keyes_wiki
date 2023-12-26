@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyes WiKi'
+project = '深圳市科易互动机器人有限公司'
 copyright = 'keyes , WiKi'
 author = 'keyes WiKi'
 
