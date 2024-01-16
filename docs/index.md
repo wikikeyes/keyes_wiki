@@ -53,7 +53,7 @@
 ---
 # ESP32 
 
-| [starter kit](esp32/esp32%20kit.md)| [robot car](esp32/esp32%20robot.md)|
+| [starter kit](/docs/esp32/esp32%20kit.md)| [robot car](/docs/esp32/esp32%20robot.md)|
 |-----------------------------------------|-----------------------------------------|
 | | |
 
