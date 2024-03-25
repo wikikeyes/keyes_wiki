@@ -10,6 +10,7 @@
 * [KE3011 Keyes brick 37合一传感器套装](http://keyes-ke3011.readthedocs.io/)
 * [KE3012 Keyes brick 42合一传感器套装](http://keyes-ke3012.readthedocs.io/)
 * [KE3013-KE3014 Keyes Arduino学习套件基础版](http://keyes-ke3013-ke3014.readthedocs.io/)
+* [KE3015-KE3016 2021入门学习套件 进阶版](http://keyes-ke3015-ke3016.readthedocs.io/)
 
 
 
