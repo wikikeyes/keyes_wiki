@@ -65,14 +65,6 @@
 
 
 ---
-# Easy plug 
-
-| [starter kit](/docs/easyplug/easy%20plug%20kit.md)| [robot car](/docs/easyplug/easy%20plug%20robot.md)|
-|--------------------------------------------------------|--------------------------------------------------------|
-| | |
-
-
-
 
 
 
