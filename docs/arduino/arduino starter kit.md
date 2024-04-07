@@ -12,6 +12,7 @@
 * [KE3013-KE3014 Keyes Arduino学习套件基础版](http://keyes-ke3013-ke3014.readthedocs.io/)
 * [KE3015-KE3016 Keyes 2021入门学习套件 进阶版](http://keyes-ke3015-ke3016.readthedocs.io/)
 * [KE3017-KE3018 Keyes 2021入门学习套件 高级版](http://keyes-ke3017-ke3018.readthedocs.io/)
+* [KE3020 Keyes Arduino DIY电子积木  42合1 传感器套装](http://keyes-ke3020.readthedocs.io/)
 
 
 
